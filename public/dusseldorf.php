@@ -64,13 +64,6 @@ $summary = 'IndieWebCamp Düsseldorf 2021 is a gathering for independent web cre
 <div class="ui large top fixed hidden menu">
   <div class="ui container">
     <?php include('../templates/'.$event.'/nav.php'); ?>
-<!--
-    <div class="right menu">
-      <div class="item">
-        <a class="ui primary button">Sign Up</a>
-      </div>
-    </div>
- -->
   </div>
 </div>
 
