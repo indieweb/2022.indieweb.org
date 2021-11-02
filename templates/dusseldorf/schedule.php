@@ -14,12 +14,14 @@
     </div>
     <div class="details">
       <ul>
-       <li><span class="time">10:00</span> Welcome</li>
-       <li><span class="time">10:30</span> Personal site demos</li>
-       <li><span class="time">11:00</span> Group photo &amp; lunch</li>
-       <li><span class="time">11:15</span> Sessions</li>
-       <li><span class="time">14:00</span> Demos</li>
-       <li><span class="time">15:15</span> Camp closed!</li>
+        <li><span class="time">09:00</span> Informal coffee &amp; warmup at Cafe</li>
+        <li><span class="time">10:00</span> Welcome</li>
+        <li><span class="time">10:30</span> Personal site demos</li>
+        <li><span class="time">11:00</span> Group photo &amp; lunch</li>
+        <li><span class="time">11:15</span> Sessions</li>
+        <li><span class="time">14:00</span> Demos</li>
+        <li><span class="time">15:15</span> Camp closed!</li>
+        <li><span class="time">15:15</span> After-snacks at Cafe</li>
       </ul>
     </div>
   </div>
