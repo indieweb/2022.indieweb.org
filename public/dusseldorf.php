@@ -172,7 +172,7 @@ $summary = 'IndieWebCamp Düsseldorf 2021 is a gathering for independent web cre
     <div class="ui container">
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
-        <li><a href="https://indieweb.org/2020/London">IndieWebCamp London wiki page</a></li>
+        <li><a href="https://indieweb.org/2021/D%C3%BCsseldorf">IndieWebCamp Düsseldorf wiki page</a></li>
         <li><a href="https://indieweb.org/code-of-conduct">Code of Conduct</a></li>
         <!-- <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li> -->
       </ul>
