@@ -95,6 +95,9 @@ $summary = 'IndieWebCamp Düsseldorf 2021 is a gathering for independent web cre
       <h2><?= $date ?></h2>
 
       <p class="summary p-summary"><?= htmlspecialchars($summary) ?></p>
+      <p>IndieWebCamp Düsseldorf is held as a side event of 
+        <a href="https://beyondtellerrand.com/events/dusseldorf-2021">Beyond Tellerrand 2021</a>
+      </p>
 
     </div>
 
@@ -173,7 +176,8 @@ $summary = 'IndieWebCamp Düsseldorf 2021 is a gathering for independent web cre
       <p><?= $title ?> &bull; <?= $date ?> &bull; <?= $city ?></p>
       <ul>
         <li><a href="https://indieweb.org/2021/D%C3%BCsseldorf">IndieWebCamp Düsseldorf wiki page</a></li>
-        <li><a href="https://indieweb.org/code-of-conduct">Code of Conduct</a></li>
+        <li><a href="https://indieweb.org/code-of-conduct">IndieWeb Code of Conduct</a></li>
+        <li><a href="https://beyondtellerrand.com/code-of-conduct">Beyond Tellerand Code of Conduct</a></li>
         <!-- <li><a href="https://indieweb.org/images/2/2d/indiewebcamp-sponsorship-prospectus.pdf">Sponsorship Prospectus</a> (PDF)</li> -->
       </ul>
     </div>
