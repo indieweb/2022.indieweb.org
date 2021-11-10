@@ -10,15 +10,16 @@
       <span class="featured">Learn, Share, Discuss, Create, Hack, Demo!!</span>
     </div>
     <div class="summary">
-      In this compressed 1-day format, we'll start with introductions, demos of personal sites, a review of the IndieWeb community and development building blocks, then BarCamp-style brainstorming and discussion sessions. The last hour will be for demos or recaps of the breakout sessions!
+      <p>In this compressed 1-day format, we'll start with introductions, demos of personal sites, a review of the IndieWeb community and development building blocks, then BarCamp-style brainstorming and discussion sessions. The last hour will be for demos or recaps of the breakout sessions!</p>      
+      <p><a href="https://indieweb.org/2021/D%C3%BCsseldorf#Directions">Directions to the venue</a></p>
     </div>
     <div class="details">
       <ul>
         <li><span class="time">09:00</span> Informal coffee &amp; warmup at Cafe</li>
-        <li><span class="time">10:00</span> Welcome</li>
-        <li><span class="time">10:30</span> Personal site demos</li>
-        <li><span class="time">11:00</span> Group photo &amp; lunch</li>
-        <li><span class="time">11:15</span> Sessions</li>
+        <li><span class="time">10:00</span> Welcome and checkin</li>
+        <li><span class="time">10:30</span> Personal site intros</li>
+        <li><span class="time">11:00</span> Group photo &amp; lunch from Cafe</li>
+        <li><span class="time">11:30</span> Sessions</li>
         <li><span class="time">14:00</span> Demos</li>
         <li><span class="time">15:15</span> Camp closed!</li>
         <li><span class="time">15:15</span> After-snacks at Cafe</li>
