@@ -18,14 +18,14 @@
     </div>
     <div class="details">
       <ul>
-        <li><span class="time">09:00</span> Informal coffee &amp; warmup at Cafe</li>
+        <li><span class="time">09:00</span> Informal coffee &amp; warmup at Xafe</li>
         <li><span class="time">10:00</span> Welcome and checkin</li>
         <li><span class="time">10:30</span> Personal site intros</li>
-        <li><span class="time">11:00</span> Group photo &amp; lunch from Cafe</li>
+        <li><span class="time">11:00</span> Group photo &amp; lunch from Xafe</li>
         <li><span class="time">11:30</span> Sessions</li>
         <li><span class="time">14:00</span> Demos</li>
         <li><span class="time">15:15</span> Camp closed!</li>
-        <li><span class="time">15:15</span> After-snacks at Cafe</li>
+        <li><span class="time">15:15</span> After-snacks at Xafe</li>
       </ul>
     </div>
   </div>
