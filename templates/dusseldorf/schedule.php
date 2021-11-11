@@ -1,6 +1,9 @@
 <p>
   <i class="calendar icon"></i> <time class="dt-start" datetime="2021-11-11">November 11, 2020</time><br/>
-  <i class="marker icon"></i> <span class="h-card p-location"><span class="p-name">Neue Zentralbibliothek Düsseldorf</span>, <span class="p-street-address">Konrad Adenauer Platz 1</span>, <span class="p-locality">Düsseldorf</span>, <span class="p-region">Germany</span></span>
+  <span class="h-card p-location">
+    <i class="marker icon"></i> <span class="p-name">Neue Zentralbibliothek Düsseldorf</span>, Stadtfenster Room<br>
+    <span class="p-street-address">Konrad Adenauer Platz 1</span>, <span class="p-locality">Düsseldorf</span>, <span class="p-region">Germany</span>
+  </span>
 </p>
 
 <div class="schedule-grid">
